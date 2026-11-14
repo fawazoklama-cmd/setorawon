@@ -1,0 +1,6 @@
+{
+  "name": "SETORAWON",
+  "description": "Share Moments, Stay Connected. Real-time peer-to-peer messaging, file sharing, voice calling, video calling, and screen sharing without a database.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}
